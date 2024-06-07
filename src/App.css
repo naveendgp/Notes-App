@@ -10,8 +10,23 @@
 }
 
 /* Home */
-div{
-    color: #F8F8F9;
+.main{
+    color: black;
     font-family: 'Poppins';
 }
 
+.title{
+    color: black;
+}
+
+.sidecomp{
+    border: 1px solid black;
+}
+
+.prodGrid{
+    display: grid;
+    row-gap: 25px;
+    column-gap: 10px;
+    margin-top: 30px;
+    grid-template-columns: 40vh 40vh 40vh 40vh;
+}

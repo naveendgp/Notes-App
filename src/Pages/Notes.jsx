@@ -8,7 +8,7 @@ const Notes = () => {
             <Sidenav/>
 
             <div className="main">
-                
+                <h3 className="title">Notes Page</h3>
             </div>
         </>
     )
